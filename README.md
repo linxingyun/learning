@@ -11,6 +11,7 @@
 <ul>
   <li> <a href="https://www.wdtutorials.com/django/how-to-setup-a-development-environment-with-vagrant/">Django - How To Setup A Development Environment With Vagrant  </a> </li>
   <li> <a href="https://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html">Small Open-Source Django Projects to Get Started </a> </li>
+  <li> <a href="https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/">A Complete Beginner's Guide to Django</a></li>
 </ul>
 
 
