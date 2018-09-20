@@ -14,6 +14,11 @@
   <li> <a href="https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/">A Complete Beginner's Guide to Django</a></li>
 </ul>
 
+<h4> CSS </h4>
+<ul>
+  <li> <a href="https://fontawesome.com/icons"> Awesome fonts </a> </li>
+</ul>
+
 
 <h2> Source management</h2>
 <ul>
@@ -21,3 +26,5 @@
   <li> <a href="https://git-scm.com/docs/gittutorial"> Git </a> </li> 
   <li> <a href="https://www.atlassian.com/git/tutorials"> Git tutorial </a> </li>
 </ul>
+
+
