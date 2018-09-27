@@ -26,6 +26,7 @@
   <li> <a href="http://svnbook.red-bean.com/"> SVN </a> </li>
   <li> <a href="https://git-scm.com/docs/gittutorial"> Git </a> </li> 
   <li> <a href="https://www.atlassian.com/git/tutorials"> Git tutorial </a> </li>
+  <li> <a href="http://gitready.com/"> Git ready - kinds of levels usage </a> </li>
 </ul>
 
 
