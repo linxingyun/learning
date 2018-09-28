@@ -18,6 +18,8 @@
 <ul>
   <li> <a href="https://fontawesome.com/icons"> Awesome fonts </a> </li>
   <li> <a href="https://www.w3schools.com/bootstrap/default.asp">Bootstrap Tutorial</a> </li>
+  <li> <a href="https://github.com/dsmorse/gridster.js">drag-and-drop multi-column grid - gridster.js </li>
+  <li> <a href="https://github.com/STRML/react-grid-layout">A draggable and resizable grid layout with responsive breakpoints, for React</a></li>
 </ul>
 
 
@@ -27,6 +29,7 @@
   <li> <a href="https://git-scm.com/docs/gittutorial"> Git </a> </li> 
   <li> <a href="https://www.atlassian.com/git/tutorials"> Git tutorial </a> </li>
   <li> <a href="http://gitready.com/"> Git ready - kinds of levels usage </a> </li>
+  
 </ul>
 
 
