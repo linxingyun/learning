@@ -21,6 +21,11 @@
   <li> <a href="https://github.com/dsmorse/gridster.js">drag-and-drop multi-column grid - gridster.js </li>
   <li> <a href="https://github.com/STRML/react-grid-layout">A draggable and resizable grid layout with responsive breakpoints, for React</a></li>
 </ul>
+<h5> Bootstrap </h5>
+<ul>
+  <li> <a href="https://bootsnipp.com/snippets/2ej1B"> sidebar example1 </a> </li> 
+  <li> <a href="https://bootsnipp.com/snippets/exAlv"> sidebar example1 </a> </li> 
+</ul>
 
 
 <h2> Source management</h2>
