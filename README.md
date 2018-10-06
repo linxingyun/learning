@@ -15,6 +15,11 @@
   <li> <a href="http://www.ilian.io/django-forms-choicefield-with-dynamic-values/">Django forms ChoiceField with dynamic values</a></li>
 </ul>
 
+<h3> Django REST Framework </h3>
+<ul>
+  <li> <a href="https://www.django-rest-framework.org/">Django REST framework</a> </li>  
+</ul>
+
 <h4> CSS </h4>
 <ul>
   <li> <a href="https://fontawesome.com/icons"> Awesome fonts </a> </li>
