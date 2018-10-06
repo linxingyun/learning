@@ -35,12 +35,25 @@
   <li> <a href="https://git-scm.com/docs/gittutorial"> Git </a> </li> 
   <li> <a href="https://www.atlassian.com/git/tutorials"> Git tutorial </a> </li>
   <li> <a href="http://gitready.com/"> Git ready - kinds of levels usage </a> </li>
-  
-  https://medium.com/netscape/full-stack-django-quick-start-with-jwt-auth-and-react-redux-part-i-37853685ab57
+</ul>
+
+<h2> Authentication </h2>
+<h4> SAML </h4>
+
+<h4> JWT (JSON Web Token Authentication) </h4>
+<ul>
+  <li> 
+    <a href="http://getblimp.github.io/django-rest-framework-jwt/">REST framework JWT Auth</a>
+    Git: https://github.com/GetBlimp/django-rest-framework-jwt
+  </li> 
+      
+https://medium.com/netscape/full-stack-django-quick-start-with-jwt-auth-and-react-redux-part-i-37853685ab57
 https://medium.com/@viewflow/full-stack-django-quick-start-with-jwt-auth-and-react-redux-part-ii-be9cf6942957
 https://medium.com/@viewflow/full-stack-django-quick-start-with-jwt-auth-and-react-redux-part-iii-873584a65119
 https://blog.imaginea.com/stateless-authentication-implementation-using-jwt-nginxlua-and-memcached/
-
 </ul>
+
+
+
 
 
