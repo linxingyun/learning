@@ -18,6 +18,7 @@
 <h3> Django REST Framework </h3>
 <ul>
   <li> <a href="https://www.django-rest-framework.org/">Django REST framework</a> </li>  
+  <li> <a href="http://www.chenxm.cc/post/588.html">django 解决使用django rest framework时web请求报CSRF Failed: CSRF cookie not set</a></li>
 </ul>
 
 <h4> CSS </h4>
