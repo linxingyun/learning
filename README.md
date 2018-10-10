@@ -34,6 +34,11 @@
   <li> <a href="https://bootsnipp.com/snippets/exAlv"> sidebar example1 </a> </li> 
 </ul>
 
+<h4> Javascript </h4>
+<ul>
+  <li> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript"> A re-introduction to JavaScript (JS tutorial)
+ </a></li>
+</ul>
 
 <h2> Source management</h2>
 <ul>
