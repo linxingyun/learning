@@ -38,6 +38,7 @@
 <ul>
   <li> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript"> A re-introduction to JavaScript (JS tutorial)
  </a></li>
+  <li> <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects">Introduction to Object-Oriented JavaScript</a></li>
 </ul>
 
 <h2> Source management</h2>
