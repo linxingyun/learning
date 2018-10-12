@@ -44,7 +44,8 @@
 <h4> React </h4>
 <ul>
   <li> <a href="https://reactjs.org/docs/getting-started.html">React tutorial</a></li>
-  <li> <a href="https://appendto.com/2017/01/3-libraries-and-3-ways-to-handle-ajax-in-react-apps"/>Libraries to handle http request (ajax) in React</a> </li>
+  <li> <a href="https://appendto.com/2017/01/3-libraries-and-3-ways-to-handle-ajax-in-react-apps">Libraries to handle http request (ajax) in React</a> </li>
+  <li> <a href="https://github.com/axios/axios"> axios - Promise based HTTP client for the browser and node.js</a></li>
 </ul>
 
 <h2> Source management</h2>
