@@ -75,6 +75,15 @@ https://blog.imaginea.com/stateless-authentication-implementation-using-jwt-ngin
 </ul>
 
 
+<h2> Cloud </h2>
+
+<h4> Openstack </h4>
+<ul> 
+  <li> <a href="https://developer.openstack.org/firstapp-shade/getting_started.html"> Openstack python SDK guide </a> </li>
+</ul>
+  
+
+
 
 
 
