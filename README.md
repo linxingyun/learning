@@ -90,7 +90,7 @@ https://blog.imaginea.com/stateless-authentication-implementation-using-jwt-ngin
   
 <h4> RabbitMQ </h4>
 <ul>
-  <li> <a href="http://www.rabbitmq.com/admin-guide.html"> </a> Server Documentation - Admin guide </li>
+  <li> <a href="http://www.rabbitmq.com/admin-guide.html">Server Documentation - Admin guide  </a> </li>
   <li> <a href="http://docs.celeryproject.org/en/latest/getting-started/brokers/rabbitmq.html#broker-rabbitmq">Using RabbitMQ</a> </li>
   
 </ul>
