@@ -75,13 +75,25 @@ https://blog.imaginea.com/stateless-authentication-implementation-using-jwt-ngin
 </ul>
 
 
-<h2> Cloud </h2>
+<h2> Cloud computing </h2>
 
 <h4> Openstack </h4>
 <ul> 
   <li> <a href="https://developer.openstack.org/firstapp-shade/getting_started.html"> Openstack python SDK guide </a> </li>
 </ul>
   
+<h4> Celery </h4>
+<ul>
+  <li> <a href="http://www.celeryproject.org/"> Celery: Distributed Task Queue </a>  </li>
+  
+</ul>
+  
+<h4> RabbitMQ </h4>
+<ul>
+  <li> <a href="http://www.rabbitmq.com/admin-guide.html"> </a> Server Documentation - Admin guide </li>
+  <li> <a href="http://docs.celeryproject.org/en/latest/getting-started/brokers/rabbitmq.html#broker-rabbitmq">Using RabbitMQ</a> </li>
+  
+</ul>
 
 
 
