@@ -14,6 +14,7 @@
   <li> <a href="https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/">A Complete Beginner's Guide to Django</a></li>
   <li> <a href="http://www.ilian.io/django-forms-choicefield-with-dynamic-values/">Django forms ChoiceField with dynamic values</a></li>
   <li> <a href="https://stackoverflow.com/questions/28165331/redirect-to-external-url-with-parameters-in-django">Redirect to external url with (post) parameters in django</a></li>
+  <li> <a href="https://simpleisbetterthancomplex.com/tutorial/2016/07/26/how-to-reset-migrations.html"> How to Reset Migrations </a></li>
 </ul>
 
 <h3> Django REST Framework </h3>
