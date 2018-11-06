@@ -81,6 +81,7 @@ https://blog.imaginea.com/stateless-authentication-implementation-using-jwt-ngin
 <h4> Openstack </h4>
 <ul> 
   <li> <a href="https://developer.openstack.org/firstapp-shade/getting_started.html"> Openstack python SDK guide </a> </li>
+  <li> <a href="https://developer.openstack.org/firstapp-libcloud/getting_started.html"> SDKs - multiple verions of SDK </a> </li>
 </ul>
   
 <h4> Celery </h4>
