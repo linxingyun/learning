@@ -17,7 +17,7 @@
        
        location ~ ^/instances/(.*)$ {
             set $domain_prefix $1;
-            return 301 $scheme://$acc.<host-name>/;
+            return 301 $scheme://$domain_prefix.<host-name>/;
         }
        
        location / {
