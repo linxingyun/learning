@@ -12,7 +12,7 @@
   <li> <a href="https://wiki.debian.org/HowTo/dnsmasq"> How To dnsmasq </a> </li>
 </ul>
 
-<h3> DNS redirect, reverse proxy setting </h3>
+<h3> DNS redirect, reverse proxy setting with internal DNS server </h3>
 '''
        
        location ~ ^/instances/(.*)$ {
