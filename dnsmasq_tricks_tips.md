@@ -34,6 +34,12 @@
 <li> <a href="https://askubuntu.com/questions/150135/how-to-block-specific-domains-in-hosts-file/150180#150180"> dnsmasq - how to block specific domains in hosts file? </a> </li>
 
 <li> <a href="https://stackoverflow.com/questions/20446930/how-to-put-wildcard-entry-into-etc-hosts"> How to put wildcard entry into /etc/hosts? </a> </li>
+'''
 
+    # /etc/hosts file doesn't support wild card entries (like: *.example.com).
+    # You'll have to use other services like dnsmasq. To enable it in dnsmasq, just edit /etc/dnsmasq.conf and add the following line:
+    # address=/example.com/127.0.0.1
+
+'''
 
 <ul>
