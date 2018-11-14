@@ -1,5 +1,6 @@
 
 <h2> DNS server (dnsmasq) config </h2>
+dnsmasq - A lightweight DHCP and caching DNS server.
 <ul>
   <li> <a href="https://wiki.debian.org/HowTo/dnsmasq"> How To dnsmasq </a> </li>
   <li> <a href="https://www.linux.com/learn/intro-to-linux/2018/2/advanced-dnsmasq-tips-and-tricks">Advanced Dnsmasq Tips and Tricks</a> </li>
