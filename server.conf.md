@@ -39,7 +39,7 @@
 <h3> redirect, reverse proxy setting with internal DNS server </h3>
 '''
        
-       location ~ ^/instances/(.*)$ {
+       location ~ ^/vms/(.*)$ {
             set $domain_prefix $1;
             return 301 $scheme://$domain_prefix.<host-name>/;
         }
