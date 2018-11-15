@@ -51,8 +51,7 @@
     <li>
         <ul>
             <li> <a href="https://my.oschina.net/javagg/blog/3239"> 终于搞点iptables端口映射了 </a> </li>
-            <li> <a href="https://www.digitalocean.com/community/tutorials/how-to-list-and-delete-iptables-firewall-rules"> How To List and Delete Iptables Firewall Rules</a> </li>
-            
+            <li> <a href="https://www.digitalocean.com/community/tutorials/how-to-list-and-delete-iptables-firewall-rules"> How To List and Delete Iptables Firewall Rules</a> </li>            
             <li> <a href="https://unix.stackexchange.com/questions/205867/viewing-all-iptables-rules"> Viewing all iptables rules </a> </li>
         </ul>
     </li>
