@@ -25,8 +25,8 @@
     #       dnsmasq is meant to be queried by other clients or the server itself and if it's not running on the common port 53 the DNS requests won't work.
     #
     #    2) In order to have the change port in 1) take effect, use iptables to to redirect port 53 to port 5353 (for instance):
-    #       > iptables -t nat -A OUTPUT -p udp --dport 53 -j DNAT --to 23.226.230.72:5353
-    #       > iptables -t nat -A OUTPUT -p tcp --dport 53 -j DNAT --to 23.226.230.72:5353
+    #       > iptables -t nat -A OUTPUT -p udp --dport 53 -j DNAT --to 127.0.0.1:5353
+    #       > iptables -t nat -A OUTPUT -p tcp --dport 53 -j DNAT --to 127.0.0.1:5353
 
 
 '''
