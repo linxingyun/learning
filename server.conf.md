@@ -59,4 +59,38 @@ dnsmasq - A lightweight DHCP and caching DNS server.
         
 '''
 
+<h3> <a href="https://serverfault.com/questions/832790/sticky-sessions-with-nginx-proxy">sticky-sessions-with-nginx-proxy </a></h3>
+'''
+
+    My server was behind AWS load balancing, so I needed to pass the correct headers to upstream so it would always reflect the client IP. The following configuration fixed my issue (see the commented line):
+    
+    upstream my_app {
+    ip_hash;
+    server 111.11.11.11:3001 weight=100 max_fails=5 fail_timeout=300;
+    server 222.22.22.22:3002 weight=100 max_fails=5 fail_timeout=300;
+    keepalive 8;
+    }
+
+    server {
+      server_name my-app.com;
+
+      location / {
+          proxy_set_header Upgrade $http_upgrade;
+          proxy_set_header Connection "upgrade";
+
+          proxy_set_header X-Real_IP $remote_addr;
+          proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+          proxy_set_header Host $http_host;
+          proxy_set_header X-NginX-Proxy true;
+
+          # This is necessary to pass the correct IP to be hashed
+          real_ip_header X-Real-IP;
+
+          proxy_pass http://my_app/;
+          proxy_redirect off;
+      }
+    }
+
+'''
+
 
