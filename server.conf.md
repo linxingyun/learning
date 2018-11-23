@@ -59,7 +59,8 @@ dnsmasq - A lightweight DHCP and caching DNS server.
         
 '''
 
-<h3> <a href="https://serverfault.com/questions/832790/sticky-sessions-with-nginx-proxy">sticky-sessions-with-nginx-proxy </a></h3>
+<h3> session configuration issue for the nginx load balancing </h3>
+<h4> <a href="https://serverfault.com/questions/832790/sticky-sessions-with-nginx-proxy">sticky-sessions-with-nginx-proxy </a></h4>
 '''
 
     My server was behind AWS load balancing, so I needed to pass the correct headers to upstream 
@@ -94,4 +95,6 @@ dnsmasq - A lightweight DHCP and caching DNS server.
 
 '''
 
+
+<h4> <a href="https://ma.ttias.be/enable-keepalive-connections-in-nginx-upstream-proxy-configurations/"> Enable Keepalive connections in Nginx Upstream proxy configurations </a> </h4>
 
