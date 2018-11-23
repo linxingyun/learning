@@ -35,6 +35,8 @@ dnsmasq - A lightweight DHCP and caching DNS server.
   <li> <a href="http://www.udpwork.com/item/12552.html"> 配置Nginx代理</a> </li>
   <li> <a href="https://regex101.com/"> Regular expression test </a> </li>
   <li> <a href="https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference">Regular Expression Language - Quick Reference</a></li>
+  
+  <li> <a href="http://nginx.org/en/docs/http/load_balancing.html">Using nginx as HTTP load balancer</a> </li>
 </ul>
 
 <h3> redirect, reverse proxy setting with internal DNS server </h3>
