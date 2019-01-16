@@ -14,6 +14,6 @@
 
 '''
 
-<li>Linux terminal tool:  terminator</li>
+<li>Linux terminal emulator:  terminator</li>
 
 </ul>
