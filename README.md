@@ -3,7 +3,8 @@
 <h2>Python</h2>
 <ul> 
   <li> <a href="https://advancedpythonprogramming.github.io/"> Advanced Computer Programming in Python </a> </li>
-  <li> <a href="https://stackoverflow.com/questions/6760685/creating-a-singleton-in-python">Singleton in Python</a> </li>
+  <li> <a href="https://stackoverflow.com/questions/6760685/creating-a-singleton-in-python">Singleton in Python</a>, 
+    <a href=""> Why is this singleton implementation 'not thread safe'? </a> https://stackoverflow.com/questions/50566934/why-is-this-singleton-implementation-not-thread-safe</li>
   
 </ul>
 
