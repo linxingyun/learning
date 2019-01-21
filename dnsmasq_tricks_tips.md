@@ -42,7 +42,21 @@
 
 '''
 
-<ul>
+<li> dnsmasq: dns record clean/update script </li>
+
+'''
+
+     [dns@testhost ~]$ cat clean 
+     #!/bin/sh
+     ID=$1
+
+     echo "password" | sudo -S pkill dnsmasq
+     mv /home/dns/conf/$ID.conf /home/dns/deleted/
+     echo "password" | sudo -S dnsmasq --log-facility=/var/log/dnsmasq/dnsmasq.log --log-queries -u root
+
+'''
+
+</ul>
 
 
 <h3> Reference: </h3>
