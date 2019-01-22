@@ -15,5 +15,15 @@
 '''
 
 <li>Linux terminal emulator:  terminator</li>
+<li>How To Assign Output of a Linux Command to a Variable</li>
+'''
+
+     To store the output of a command in a variable, you can use the shell command substitution feature in the forms below:
+     variable_name=$(command)
+     variable_name=$(command [option ...] arg1 arg2 ...)
+     OR
+     variable_name='command'
+     variable_name='command [option ...] arg1 arg2 ...'
+'''
 
 </ul>
