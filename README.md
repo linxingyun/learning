@@ -29,6 +29,7 @@
 <h4> CSS </h4>
 <ul>
   <li> <a href="https://fontawesome.com/icons"> Awesome fonts </a> </li>
+  <li> <a href="https://loading.io/css/"> Pure CSS Loaders </a> </li>
   <li> <a href="https://www.w3schools.com/bootstrap/default.asp">Bootstrap Tutorial</a> </li>
   <li> <a href="https://github.com/dsmorse/gridster.js">drag-and-drop multi-column grid - gridster.js </li>
   <li> <a href="https://github.com/STRML/react-grid-layout">A draggable and resizable grid layout with responsive breakpoints, for React</a></li>
