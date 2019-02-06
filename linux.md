@@ -2,6 +2,8 @@
 
 <ul>
 <li>what is the CentOS equivalent of /var/log/syslog (on Ubuntu)?</li>
+    
+    
 '''
 
     Red Hat family distributions (including CentOS and Fedora) use /var/log/messages and 
@@ -16,6 +18,8 @@
 
 <li>Linux terminal emulator:  terminator</li>
 <li>How To Assign Output of a Linux Command to a Variable</li>
+
+
 '''
 
      To store the output of a command in a variable, you can use the shell command substitution feature in the forms below:
@@ -25,9 +29,11 @@
      variable_name='command'
      variable_name='command [option ...] arg1 arg2 ...'
 '''
+
 <li> <a href="https://stackoverflow.com/questions/3455625/linux-command-to-print-directory-structure-in-the-form-of-a-tree">Linux command to print directory structure in the form of a tree</a></li>
 
 <li> <a href="https://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/"> Linux Cron job </a> </li>
+
 
 '''
 
