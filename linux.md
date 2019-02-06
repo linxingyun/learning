@@ -27,5 +27,24 @@
 '''
 <li> <a href="https://stackoverflow.com/questions/3455625/linux-command-to-print-directory-structure-in-the-form-of-a-tree">Linux command to print directory structure in the form of a tree</a></li>
 
+<li> <a href="https://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/"> Linux Cron job </a> </li>
+
+'''
+
+     # crontab -e
+     
+     * * * * * command to be executed
+     - - - - -
+     | | | | |
+     | | | | ----- Day of week (0 - 7) (Sunday=0 or 7)
+     | | | ------- Month (1 - 12)
+     | | --------- Day of month (1 - 31)
+     | ----------- Hour (0 - 23)
+     ------------- Minute (0 - 59)
+     
+     To run /path/to/command five minutes after midnight, every day, enter:
+     5 0 * * * /path/to/command
+     
+'''
 
 </ul>
