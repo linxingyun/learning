@@ -56,5 +56,7 @@
 '''
 
 <li><a href="https://www.tecmint.com/ssh-passwordless-login-using-ssh-keygen-in-5-easy-steps/"> SSH Passwordless Login Using SSH Keygen in 5 Easy Steps</a></li>
+
+<li><a href="https://www.liberiangeek.net/2014/07/enable-ssh-key-logon-disable-password-password-less-logon-centos/">Enable SSH Key Logon and Disable Password (Password-Less) Logon in CentOS</a></li>
     
 </ul>
