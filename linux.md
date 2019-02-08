@@ -32,7 +32,9 @@
 
 <li> <a href="https://stackoverflow.com/questions/3455625/linux-command-to-print-directory-structure-in-the-form-of-a-tree">Linux command to print directory structure in the form of a tree</a></li>
 
-<li> <a href="https://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/"> Linux Cron job </a> </li>
+<li> <a href="https://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/"> Linux Cron job </a> 
+    &nbsp; <a href="https://www.cnblogs.com/funnyway/p/9005937.html">利用crontab定时提交svn遇到的几个问题</a>
+</li>
 
 
 '''
@@ -52,5 +54,6 @@
      5 0 * * * /path/to/command
      
 '''
+
 
 </ul>
