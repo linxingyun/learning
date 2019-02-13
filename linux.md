@@ -59,4 +59,16 @@
 
 <li><a href="https://www.liberiangeek.net/2014/07/enable-ssh-key-logon-disable-password-password-less-logon-centos/">Enable SSH Key Logon and Disable Password (Password-Less) Logon in CentOS</a></li>
     
+<li> Remove the entry from known_hosts when the key gets changed </li>
+
+'''
+
+     Remove the entry from known_hosts using:
+
+     ssh-keygen -R *ip_address_or_hostname*
+
+     This will remove the problematic IP or hostname from known_hosts file and try to connect again
+
+'''
+
 </ul>
