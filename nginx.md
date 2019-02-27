@@ -23,6 +23,18 @@
         copytruncate
     }
     
+    /var/log/cloud/*.log {
+        daily
+        size 1k
+        rotate 10
+        copytruncate
+        compress
+        dateext
+        notifempty
+        missingok
+    }
+
+    
 '''
 
 <h3> log analysis </h3>
