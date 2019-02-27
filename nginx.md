@@ -9,6 +9,21 @@
 <li><a href="https://www.digitalocean.com/community/tutorials/how-to-configure-logging-and-log-rotation-in-nginx-on-an-ubuntu-vps">How To Configure Logging and Log Rotation in Nginx on an Ubuntu VPS</a> </li>
 </ul>
 
+
+'''
+
+    /var/log/celery/*.log {
+        weekly
+        missingok
+        rotate 52
+        compress
+        delaycompress
+        notifempty
+        copytruncate
+    }
+    
+'''
+
 <h3> log analysis </h3>
 <ul>
   <li><a href="https://pawelurbanek.com/elk-nginx-logs-setup">Setup ELK for NGINX logs with Elasticsearch, Logstash, and Kibana</a> </li>
