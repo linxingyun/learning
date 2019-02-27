@@ -8,6 +8,9 @@
 <li><a href="https://www.jianshu.com/p/1001b9d75e03">CentOS 7下使用Logrotate管理日志</a></li>
 <li><a href="https://www.digitalocean.com/community/tutorials/how-to-configure-logging-and-log-rotation-in-nginx-on-an-ubuntu-vps">How To Configure Logging and Log Rotation in Nginx on an Ubuntu VPS</a> </li>
   <li> <a href="https://linux.cn/article-4126-1.html">Linux日志文件总管——logrotate</a></li>
+  
+  <li> <a href="https://stackoverflow.com/questions/20162176/centos-linux-setting-logrotate-to-maximum-file-size-for-all-logs">Centos/Linux setting logrotate to maximum file size for all logs</a></li>
+  
 </ul>
 
 
