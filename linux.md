@@ -71,4 +71,21 @@
 
 '''
 
+<li> <a href="https://askubuntu.com/questions/218/command-to-list-services-that-start-on-startup">Command to list services that start on startup </a> </li>
+
+'''
+
+     The long answer is: For current versions of Ubuntu, you probably have a mix of Upstart, and SystemV. Newer versions of Ubuntu after 15.04 "Vivid Vervet" (and other Linux distros like RHEL/CentOS 7) are moving to use SystemD.
+     
+     Upstart:  
+          > initctl list
+          
+     System V:
+          > service --status-all
+
+     SystemD:
+          > systemctl list-unit-files --type=service
+          
+'''
+
 </ul>
