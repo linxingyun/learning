@@ -15,10 +15,18 @@
   
   '''
   
+     # redirect all
      server {
         listen 80 default_server;
         server_name _;
         return 301 https://$host$request_uri;
+     }
+     
+     # redirect specific site
+     server {
+        listen 80 ;
+        server_name foo.com;
+        return 301 https://foo.com$request_uri;
      }
   
   '''
