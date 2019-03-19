@@ -70,5 +70,7 @@
             <li> <a href="http://coolnull.com/3322.html"> iptables实现端口映射</a> </li>
         </ul>
     </li>
+    
+    <li> <a href="https://www.server-world.info/en/note?os=CentOS_7&p=dnsmasq"> Install Dnsmasq in CentOS </a> </li>
 </ul>
 
