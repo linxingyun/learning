@@ -10,27 +10,7 @@
   <li> <a href="https://linux.cn/article-4126-1.html">Linux日志文件总管——logrotate</a></li>
   
   <li> <a href="https://stackoverflow.com/questions/20162176/centos-linux-setting-logrotate-to-maximum-file-size-for-all-logs">Centos/Linux setting logrotate to maximum file size for all logs</a></li>
-  
-  <li> <a href="https://serversforhackers.com/c/redirect-http-to-https-nginx"> Redirect HTTP to HTTPS in Nginx </a> </li>
-  
-  '''
-  
-     # redirect all
-     server {
-        listen 80 default_server;
-        server_name _;
-        return 301 https://$host$request_uri;
-     }
-     
-     # redirect specific site
-     server {
-        listen 80 ;
-        server_name foo.com;
-        return 301 https://foo.com$request_uri;
-     }
-  
-  '''
-  
+    
 </ul>
 
 
@@ -63,4 +43,28 @@
 <h3> log analysis </h3>
 <ul>
   <li><a href="https://pawelurbanek.com/elk-nginx-logs-setup">Setup ELK for NGINX logs with Elasticsearch, Logstash, and Kibana</a> </li>
+</ul>
+
+<h3> Nginx configuration tips</h3>
+<ul>
+<li> <a href="https://serversforhackers.com/c/redirect-http-to-https-nginx"> Redirect HTTP to HTTPS in Nginx </a> </li>
+  
+  '''
+  
+     # redirect all
+     server {
+        listen 80 default_server;
+        server_name _;
+        return 301 https://$host$request_uri;
+     }
+     
+     # redirect specific site
+     server {
+        listen 80 ;
+        server_name foo.com;
+        return 301 https://foo.com$request_uri;
+     }
+  
+  '''
+
 </ul>
