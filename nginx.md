@@ -11,6 +11,18 @@
   
   <li> <a href="https://stackoverflow.com/questions/20162176/centos-linux-setting-logrotate-to-maximum-file-size-for-all-logs">Centos/Linux setting logrotate to maximum file size for all logs</a></li>
   
+  <li> <a href="https://serversforhackers.com/c/redirect-http-to-https-nginx"> Redirect HTTP to HTTPS in Nginx </a> </li>
+  
+  '''
+  
+     server {
+        listen 80 default_server;
+        server_name _;
+        return 301 https://$host$request_uri;
+     }
+  
+  '''
+  
 </ul>
 
 
