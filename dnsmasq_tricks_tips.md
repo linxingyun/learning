@@ -56,6 +56,27 @@
 
 '''
 
+<li> Config dnsmasq as service </li>
+
+
+'''
+
+     #dnsmasq.service
+     [Unit]
+     Description=dnsmasq - A lightweight DHCP and caching DNS server
+     
+     [Service]
+     Type=forking
+     User=root
+     Group=root
+     ExecStartPre=/usr/sbin/dnsmasq --test
+     ExecStart=/usr/sbin/dnsmasq2
+
+     [Install]
+     WantedBy=multi-user.target
+     
+'''
+
 </ul>
 
 
