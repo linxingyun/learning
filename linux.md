@@ -88,4 +88,15 @@
           
 '''
 
+<li> <a href="https://superuser.com/questions/1125250/systemctl-access-denied-when-root">systemctl access denied when root</a> </li>
+
+'''
+
+      #Work-around:
+      > getenforce
+       Enforcing
+      > setenforce 0
+      
+'''      
+
 </ul>
