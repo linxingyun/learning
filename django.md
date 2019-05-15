@@ -7,6 +7,6 @@
          <li> <a href="https://github.com/jsocol/django-ratelimit"> Django - Ratelimit </a> </li>
      </ul>
  
- <li> </li>
+ <li> <a href="https://stackoverflow.com/questions/14830669/how-to-expire-django-session-in-5minutes"> How to expire Django session in 5minutes? </a> </li>
 </ul>
 
