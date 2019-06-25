@@ -10,6 +10,7 @@
 <h4> Cons: </h4>
 <ul>
 <li> Not support Django ORM. ticket in forum: <a href="https://github.com/cockroachdb/cockroachdb-python/pull/14"> WIP: Create a Django backend adapter for CockroachDB </a> </li>
+ <li> Not support Advisory Locks. workaround:  <a href="https://forum.cockroachlabs.com/t/alternatives-to-pg-advisory-locks/742"> Alternatives to PG Advisory Locks? </a> </li>
 
 </ul>
 
