@@ -5,6 +5,7 @@
   <li> <a href="https://advancedpythonprogramming.github.io/"> Advanced Computer Programming in Python </a> </li>
   <li> <a href="https://stackoverflow.com/questions/6760685/creating-a-singleton-in-python">Singleton in Python</a>, 
     <a href="https://stackoverflow.com/questions/50566934/why-is-this-singleton-implementation-not-thread-safe"> Why is this singleton implementation 'not thread safe'? </a> </li>
+  <li> <a href="https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html">Python Cookbook 3rd Edition Documentation</a></li>
   
 </ul>
 
