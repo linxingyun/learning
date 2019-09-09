@@ -62,6 +62,7 @@
   <li> <a href="https://git-scm.com/docs/gittutorial"> Git </a> </li> 
   <li> <a href="https://www.atlassian.com/git/tutorials"> Git tutorial </a> </li>
   <li> <a href="http://gitready.com/"> Git ready - kinds of levels usage </a> </li>
+  <li> <a href="https://stackoverflow.com/questions/16748160/what-does-it-mean-when-git-diff-shows-mode-changes/16748188"> What does it mean when Git diff shows mode changes? <a> </li>
 </ul>
 
 <h2> Authentication </h2>
