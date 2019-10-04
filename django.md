@@ -12,5 +12,7 @@
  
  <li> <a href="https://avilpage.com/2018/05/deploying-scaling-django-channels.html"> How To Deploy Django Channels To Production</a>: WSGI server and ASGI server </li>
  
+ <li> <a href="https://www.valentinog.com/blog/drf/">Django REST with React </a> </li>
+ 
 </ul>
 
