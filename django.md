@@ -17,3 +17,8 @@
  
 </ul>
 
+
+<h4> Some useful blogs/articles for Python, Django </h4>
+<ul>
+ <li> <a href="https://simpleisbetterthancomplex.com/archive/">Vitor Freitas - Article Archive:  a very good resource to learn kinds of concepts/practice on Django </a> </li>
+</ul>
