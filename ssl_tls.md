@@ -51,7 +51,7 @@ openssl s_client -connect <domain_name>:443 -servername <SNI> -CAfile <ca-file>.
      
   '''
   
-  
+  <li> <a href="https://gist.github.com/linxingyun/30ee0b6d3a07576a151300e724f7277c"> Mutual SSL in NGINX </a> </li>
   
   
 </ul>
