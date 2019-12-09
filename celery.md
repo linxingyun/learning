@@ -6,4 +6,6 @@
 
 <li> <a href="https://github.com/celery/celery/tree/master/extra"> Config examples </a> </li>
 
+<li> <a href="https://www.distributedpython.com/2018/06/05/dynamic-task-routing/"> Dynamic Task Routing in Celery </a> </li>
+
 </ul>
