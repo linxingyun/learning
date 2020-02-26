@@ -35,5 +35,12 @@
 
 '''
 
+<li> correct vsftpd “500 OOPS: cannot change directory” error? </li>
 
+
+'''
+
+    chmod 750 -R /home/ftp-dir
+
+'''
 </ul>
