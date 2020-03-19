@@ -99,4 +99,6 @@
       
 '''      
 
+<li> <a href="https://ma.ttias.be/logrotate-on-rhelcentos-7-complains-about-insecure-permissions-on-parent-directory-world-writable/" > Logrotate On RHEL/CentOS 7 Complains About Insecure Permissions on Parent Directory, World Writable </a> </li>
+
 </ul>
