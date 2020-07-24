@@ -14,6 +14,7 @@
  
  <li> <a href="https://www.valentinog.com/blog/drf/">Django REST with React </a> </li>
  <li> <a href="https://simpleisbetterthancomplex.com/tutorial/2018/01/18/how-to-implement-multiple-user-types-with-django.html"> Django Authentication and Authorization - role based </a> </li>
+ <li> <a href="https://simpleisbetterthancomplex.com/tutorial/2016/07/26/how-to-reset-migrations.html"> How to Reset Migrations </a> </li>
  
 </ul>
 
