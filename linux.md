@@ -88,6 +88,17 @@
           
 '''
 
+<li> <a href="https://serverfault.com/questions/628610/increasing-nproc-for-processes-launched-by-systemd-on-centos-7"> increase process/service max open files </a> </li>
+
+'''
+     
+     Edit the /etc/systemd/system/xxx.service file by adding 'LimitNOFILE' option.
+     [Service]
+     Type=notify
+     LimitNOFILE=49152
+
+'''
+
 <li> <a href="https://superuser.com/questions/1125250/systemctl-access-denied-when-root">systemctl access denied when root</a> </li>
 
 '''
