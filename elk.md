@@ -8,6 +8,9 @@
   <li> <a href="https://logz.io/blog/the-top-5-elasticsearch-mistakes-how-to-avoid-them/"> How to Avoid and Fix the Top 5 Elasticsearch Mistakes </a> </li>
   
   <li> <a href="https://logz.io/blog/beats-tutorial/"> A Beats Tutorial: Getting Started </a> </li>
-  
+ 
+ 
+  <li> <a href="https://logz.io/blog/deploying-kafka-with-elk/"> Deploying Kafka with the ELK Stack </a> </li>
+  <li> <a href="https://logz.io/blog/deploying-redis-elk/"> Deploying Redis with the ELK Stack </a> </li>
 </ul>
 
