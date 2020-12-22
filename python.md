@@ -15,3 +15,8 @@
   
 </ul>
 
+<h4> books </h4>
+<ul>
+  <li> <a href="https://leanpub.com/insidethepythonvirtualmachine/read#leanpub-auto-introduction"> 
+    Inside The Python Virtual Machine </a> </li>
+</ul>
