@@ -12,5 +12,11 @@
  
   <li> <a href="https://logz.io/blog/deploying-kafka-with-elk/"> Deploying Kafka with the ELK Stack </a> </li>
   <li> <a href="https://logz.io/blog/deploying-redis-elk/"> Deploying Redis with the ELK Stack </a> </li>
+  
+  
+  <li> <a href="https://www.cnblogs.com/sanduzxcvbnm/p/12061475.html"> Configuring SSL, TLS, and HTTPS to secure Elasticsearch, Kibana, Beats, and Logstash - CN </a></li>
+  <li> <a href="https://www.elastic.co/blog/configuring-ssl-tls-and-https-to-secure-elasticsearch-kibana-beats-and-logstash"> Configuring SSL, TLS, and HTTPS to secure Elasticsearch, Kibana, Beats, and Logstash - EN </a></li>
+  
 </ul>
+
 
