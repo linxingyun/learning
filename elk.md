@@ -19,6 +19,7 @@
   
   
   <li> <a href="https://www.madhur.co.in/blog/2017/04/30/view-exceptions-in-elk.html"> Handling stack traces in Elasticsearch Logstash Kibana (ELK) </a> </li>
+  <li> <a href="https://stackoverflow.com/questions/30977603/parse-logs-containing-python-tracebacks-using-logstash">Parse logs containing python tracebacks using logstash</a> </li>
 </ul>
 
 
